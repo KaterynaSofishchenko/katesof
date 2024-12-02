@@ -1,0 +1,58 @@
+.home-banner{
+    width: 100%;
+    height: auto;
+}
+.button-cup{
+    width: 370px;
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
+.button-cup:hover{
+    width: 400px;
+    rotate: 30deg;
+}
+.button-matcha{
+    width: 350px;
+    position: absolute;
+    left: 600px;
+    top: 40px;
+}
+.button-matcha:hover{
+    width: 400px;
+    rotate: 30deg;
+}
+.click{
+    width: 370px;
+    position: absolute;
+    left: 550px;
+    top: 600px;
+}
+.click:hover{
+    width: 400px;
+    rotate: 30deg;
+}
+.how-to-make{
+    width: 400px;
+    position: absolute;
+    right: 100px;
+    top: 500px;
+}
+.how-to-make:hover{
+    width: 470px;
+    rotate: 30deg;
+}
+.banner{
+    width: 100%;
+    height: auto;
+}
+.back-button{
+    width: 370px;
+    position: absolute;
+    left: 550px;
+    top: 600px;
+}
+.back-button:hover{
+    width: 400px;
+    rotate: 30deg;
+}
